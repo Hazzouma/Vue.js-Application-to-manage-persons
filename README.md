@@ -1,4 +1,4 @@
-# project-planner
+# Manage persons: Vue.js Application
 
 ## Project setup
 
