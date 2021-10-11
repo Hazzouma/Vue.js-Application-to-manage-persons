@@ -1,4 +1,4 @@
-# Manage persons: Vue.js Application
+# Manage persons: Vue.js Application - Hazem Housseini
 
 ## Project setup
 
