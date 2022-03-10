@@ -1,4 +1,4 @@
-# Manage persons: Vue.js Application - Hazem Housseini
+# Manage persons: Vue.js Application
 
 ## Project setup
 
@@ -10,12 +10,6 @@ npm install
 
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
 ```
 
 ### Compiles the json-server for development
